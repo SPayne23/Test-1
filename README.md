@@ -10,6 +10,4 @@ New change New changec#2
 #Nw blsh ksndk ne;qn. 
 
 tbis a h
-
-j mxs
-make a change 
+This us an update
