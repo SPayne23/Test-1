@@ -2,12 +2,13 @@
 
 Read me 
 
-Edit and changes 
-NEw change 
-new
-New change New changec#2 
+Code line 1 var a = 0
 
-#Nw blsh ksndk ne;qn. 
+Code line 2 var b = 1
 
-tbis a h
-This us an update
+Code lone 3 var c = a + b
+
+These are just notes 
+
+Code line 4 var d = 0
+if c = 1
