@@ -4,11 +4,4 @@ Read me
 
 Edit and changes 
 NEw change 
-New chnage 
-text
-This is an update
-SHAQQ-24
-CU-SHAQQ-24
-SHAQQ-24
-Change
-chnage 2
+
